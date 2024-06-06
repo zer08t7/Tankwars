@@ -1,2 +1,2 @@
 # Tankwars
-This is an original game made by Ping, enjoy.
+This is an original game made by me, enjoy.
